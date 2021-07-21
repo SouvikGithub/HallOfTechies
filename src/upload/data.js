@@ -808,7 +808,19 @@ const data = [
       "https://twitter.com/rs_bhargav",
     ],
   },
-];
+{
+    name: "Souvik Sana",
+    role: "Fresher (B.Tech_C.S.E)",
+    image: "https://github.com/SouvikGithub.png",
+    skills: ['php', 'python', 'js', 'react native'],
+    link: [
+      "https://github.com/SouvikGithub",
+      "https://linkedin.com/in/souviksana281",
+      "https://twitter.com/imsouveek",
+    ],
+  }
+ ];
+
 
 
 
